@@ -6,4 +6,8 @@
 (3) A design for a dual-piston scotch yoke water pump complete with BOM, manufacturing plan, analysis, and testing; my final group project for MAE 2250: Mechanical Synthesis
 
 ## Instructions
-To see my report
+To see the report for (1), go to
+
+To see the report for (2), go to
+
+To see the report for (3), go to
