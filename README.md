@@ -6,8 +6,10 @@
 (3) A design for a dual-piston scotch yoke water pump complete with BOM, manufacturing plan, analysis, and testing; my final group project for MAE 2250: Mechanical Synthesis
 
 ## Instructions
-To see the report for (1), go to
+To see the report for (1), go to Thermodynamic Dissection of a Refrigeration Cycle (Paper).pdf in the repository
 
-To see the report for (2), go to
+To see the presentation for (1), go to Thermodynamic Dissection of a Refrigeration Cycle (Presentation).pptx
+
+To see the presentation for (2), go to
 
 To see the report for (3), go to Water Pump Final Design Review (Paper).pdf
