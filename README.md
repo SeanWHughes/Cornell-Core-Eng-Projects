@@ -5,6 +5,8 @@
 
 (3) A design for a dual-piston scotch yoke water pump complete with BOM, manufacturing plan, analysis, and testing; my final group project for MAE 2250: Mechanical Synthesis
 
+(4) An automated parametric CFD analysis of turbulent flow over an electric car; my final project for MAE 4291: Supervised Senior Design Experience
+
 ## Instructions
 To see the report for (2), go to Thermodynamic Dissection of a Refrigeration Cycle (Paper).pdf in the repository
 
@@ -13,3 +15,5 @@ To see the presentation for (2), go to Thermodynamic Dissection of a Refrigerati
 To see the presentation for (1), go to Fluid-Mechanical Dissection of a Centrifugal Pump.pptx
 
 To see the report for (3), go to Water Pump Final Design Review (Paper).pdf
+
+To see the report for (4), go to Senior Design - Parametric Turbulent CFD Car Analysis.pdf
